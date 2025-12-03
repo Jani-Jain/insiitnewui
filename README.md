@@ -49,7 +49,19 @@ This repo contains a fresh frontend implementation that:
 > *(Replace with your actual tools.)*
 
 ---
+## 🧩 Installation & Setup
 
-## 📁 Project Structure
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo.git
+
+# Navigate to the project
+cd your-repo
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 
 
