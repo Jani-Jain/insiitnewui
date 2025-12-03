@@ -1,0 +1,26 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.iml
+
+# Node / JS (for future web/React)
+node_modules/
+dist/
+build/
+
+# Flutter (for future app)
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-*
+.mdart_tool/
+.packages
+pubspec.lock
+
+# Logs / temp
+*.log
+*.tmp
